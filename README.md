@@ -21,7 +21,7 @@ This is a RESTful api built with the SlimPHP framework and uses MySQL for storag
 ```sh
 $ composer install
 ```
-### API Endpints
+### API Endpoints
 ```sh
 $ GET /api/customers
 $ GET /api/customer/{id}
